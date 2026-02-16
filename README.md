@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 
-I'm a **Senior Technical Product Manager** with 5+ years specializing in **AI/ML products, LLM applications, and enterprise data platforms**. I bridge the gap between cutting-edge AI technology and business value, shipping products that scale to millions of users while maintaining technical excellence.
+I'm a **Senior Technical Product Manager** with 6+ years specializing in **AI/ML products, LLM applications, and enterprise data platforms**. I bridge the gap between cutting-edge AI technology and business value, shipping products that scale to millions of users while maintaining technical excellence.
 
 ### 🎯 What I Do
 - **Product Strategy & Execution**: Lead 0-1 product development for AI-powered B2B SaaS solutions
