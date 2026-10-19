@@ -25,8 +25,8 @@
 
 ## 🧭 About me
 
-I'm an **AI product leader** who builds **enterprise generative AI products**: LLM applications, AI agents,
-RAG systems and AI governance. My work at **HireRight** includes multimodal LLM document verification,
+I'm an **AI product leader** at **UPL**, building **enterprise generative AI products**: LLM applications,
+AI agents, RAG systems and AI governance. Before UPL, my work at **HireRight** included multimodal LLM document verification,
 GenAI assistants covering **4,000+ courts across 2,600 U.S. jurisdictions**, and automation that saves
 **$125K+ a year**.
 
@@ -36,7 +36,7 @@ Outside work, I **teach AI** through a book, a YouTube channel, articles and ope
 can run.
 
 > **MIT Pune** (Computer Science) · **IIM Mumbai** (MBA) · **8.5+ years** in B2B SaaS, ML and data platforms ·
-> Previously DevOpsLabs, Sterlite Technologies, Deloitte, Infosys
+> Currently **UPL** · Previously HireRight, DevOpsLabs, Sterlite Technologies, Deloitte, Infosys
 
 ---
 
@@ -273,7 +273,7 @@ edit and a separate, predictable renderer produces it, so the two jobs are kept 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tusshaarprasad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://tusshaarprasad.lovable.app)
 
-📍 Bengaluru, India
+🏢 **UPL** &nbsp;·&nbsp; 📍 Bengaluru, India
 
 <sub>AI Product Leader · AI Product Manager · Head of AI Product · Generative AI · LLM Products · AI Agents · Agentic AI · RAG · LLM Evaluation · AI Governance · Responsible AI · Enterprise AI · B2B SaaS · Claude · OpenAI · LangChain · CrewAI · AI Educator · AI Author · AI YouTube</sub>
 
