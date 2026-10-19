@@ -1,16 +1,21 @@
+<!--
+  Tushar Prasad | AI Product Leader | Generative AI, AI Agents, LLM Products, AI Governance
+  Author of "From Tokens to Platforms" | YouTube: AI explained simply | Bengaluru, India
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tushar%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20Product%20Manager%20%7C%20LLMs%20%7C%20AI%20Agents%20%7C%20RAG%20%7C%20AI%20Governance&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tushar%20Prasad&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Product%20Leader%20%C2%B7%20Agentic%20AI%20%C2%B7%20Author%20%C2%B7%20AI%20Educator&descAlignY=56&descSize=18" alt="Tushar Prasad - AI Product Leader, Agentic AI, Author, AI Educator" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+AI+Product+Manager+%F0%9F%9A%80;Building+LLMs+%7C+RAG+%7C+AI+Agents+in+Production;MIT+Pune+%7C+IIM+Mumbai+%7C+8.5%2B+Years;Open+to+Senior+PM+AI+%26+Head+of+Product+Roles" alt="Typing SVG" /></a>
+<a href="https://github.com/tusshaarpd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Product+Leader+%7C+LLMs+%C2%B7+AI+Agents+%C2%B7+RAG;Author+of+%22From+Tokens+to+Platforms%22+(537+pages);I+turn+AI+hype+into+products+that+move+metrics;Teaching+AI+simply+on+YouTube+%F0%9F%8E%AC;Shipping+agentic+automations+with+Claude+%F0%9F%A4%96" alt="AI Product Leader, Author, AI educator, building agentic automations" /></a>
 
 <br/>
 
-[![Open to Senior PM AI Roles](https://img.shields.io/badge/%F0%9F%8E%AF_Open_to-Senior_PM_AI_Roles-brightgreen?style=for-the-badge)](mailto:tusshaarprasad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharprasad6a15315a)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_%26_Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tusharprasad8757)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharprasad6a15315a)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tusshaarprasad)
+[![Book](https://img.shields.io/badge/Book-From_Tokens_to_Platforms-F4A323?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/tusshaarpd/AI_book)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://tusshaarprasad.lovable.app)
-[![Medium](https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tusshaarprasad)
-[![Email](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusshaarprasad@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=tusshaarpd&label=Profile+Views&color=58A6FF&style=flat" alt="profile views" />
 
@@ -18,205 +23,77 @@
 
 ---
 
-## ⚡ Business Impact at a Glance
+## 🧭 About me
+
+I'm an **AI product leader** who builds **enterprise generative AI products**: LLM applications, AI agents,
+RAG systems and AI governance. My work at **HireRight** includes multimodal LLM document verification,
+GenAI assistants covering **4,000+ courts across 2,600 U.S. jurisdictions**, and automation that saves
+**$125K+ a year**.
+
+I work where **product strategy, LLM engineering and responsible AI** meet. I write PRDs that engineers
+trust, make the prioritization calls the business needs, and govern AI so it is safe to ship.
+Outside work, I **teach AI** through a book, a YouTube channel, articles and open-source projects anyone
+can run.
+
+> **MIT Pune** (Computer Science) · **IIM Mumbai** (MBA) · **8.5+ years** in B2B SaaS, ML and data platforms ·
+> Previously DevOpsLabs, Sterlite Technologies, Deloitte, Infosys
+
+---
+
+## ⚡ Impact at a glance
 
 <div align="center">
 
-| 💰 $125K+ | ⏱️ 80% | 🎯 95% | 🏛️ 4,000+ |
+| 💰 **$125K+** | ⏱️ **80%** | 🎯 **95%** | 🏛️ **4,000+** |
 |:---:|:---:|:---:|:---:|
-| Annual savings via multimodal LLM | TAT reduction on document verification | Accuracy on AI-powered KYC | Courts on scraper platform |
-
-| 🤖 5 FTEs | 📈 30% | ⚡ 20% | 🗓️ 8.5 Yrs |
-|:---:|:---:|:---:|:---:|
-| Automated via GenAI chatbot | CSAT improvement | Response time reduction | B2B SaaS · ML · Data platforms |
+| Annual savings from a multimodal LLM | Faster document verification (TAT) | Accuracy on AI-powered KYC | Courts covered by the scraper platform |
+| 🤖 **5 FTEs** | 📈 **30%** | ⚡ **20%** | 🗓️ **8.5+ yrs** |
+| Workload automated by a GenAI chatbot | CSAT improvement | Faster response time | B2B SaaS · ML · data platforms |
 
 </div>
 
 ---
 
-## 🧠 Who I Am
-
-> **Senior AI Product Manager** · MIT Pune (CS) · IIM Mumbai (MBA)
-
-I ship **enterprise AI products** that move real business metrics. At **HireRight**, I've built multimodal LLMs for document verification, deployed GenAI chatbots managing 4,000+ courts across 2,600 U.S. jurisdictions, and automated workflows saving $125K+ annually.
-
-I sit at the crossroads of **LLM engineering**, **AI governance**, and **product strategy** — technical enough to earn engineers' trust in PRDs, business-savvy enough to make the right prioritization calls.
-
-**Previous:** DevOpsLabs (12-person team · Value Stream Mapping platform) · Sterlite Technologies · Deloitte · Infosys
-
-> 🎯 **Actively exploring:** Senior PM AI · Head of AI Product · AI Product Lead · Director of Product (AI) roles
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### AI / GenAI
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,aws,docker,kubernetes,git&theme=dark)](https://skillicons.dev)
-
-**LLM Frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7952B3?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**AI Capabilities**
-
-![RAG](https://img.shields.io/badge/RAG_Systems-0066CC?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6F42C1?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-28A745?style=flat-square)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-DC3545?style=flat-square)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FD7E14?style=flat-square)
-![Voice AI](https://img.shields.io/badge/Voice_AI-17A2B8?style=flat-square)
-![AI Governance](https://img.shields.io/badge/AI_Governance-343A40?style=flat-square)
-![Multimodal](https://img.shields.io/badge/Multimodal_AI-6C757D?style=flat-square)
-
-**Vector Databases**
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4B0082?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate-1AA260?style=flat-square)
-
-**PM Craft**
-
-![PRDs](https://img.shields.io/badge/PRDs_&_Specs-0052CC?style=flat-square&logo=confluence&logoColor=white)
-![OKRs](https://img.shields.io/badge/OKRs_&_Roadmaps-FF5630?style=flat-square)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-36B37E?style=flat-square)
-![Responsible AI](https://img.shields.io/badge/Responsible_AI-E6194B?style=flat-square)
-![GTM](https://img.shields.io/badge/Enterprise_GTM-FF8B00?style=flat-square)
-![0→1 Products](https://img.shields.io/badge/0%E2%86%921_Products-6554C0?style=flat-square)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🏛️ AI Governance & Safety
+## 🎤 Thought leadership
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔐 [Governance Agents](https://github.com/tusshaarpd/governance-agents)**
-
-4 AI agents that evaluate enterprise tool requests against FCA, PRA, UK GDPR & SMCR regulations — delivering a complete governance report in **< 60 seconds**.
-
-Built for OakNorth Bank. Covers KITRR framework, capability overlap detection across 20-tool inventory, AI-native risk scoring, and model lock-in analysis.
-
-`CrewAI` `GPT-4o` `Streamlit` `UK Banking Compliance`
+### 📕 [From Tokens to Platforms](https://github.com/tusshaarpd/AI_book)
+**The Engineer's Complete Guide to Modern AI Systems.** A **537-page** field manual
+(33 chapters, 12 appendices, 100K+ words) on building, deploying, scaling and running real-world AI
+systems, from tokens and embeddings to production AI platforms. Free to read.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛡️ [AI Agent Evaluation Platform](https://github.com/tusshaarpd/agent-evaluation)**
+### 🎬 [YouTube: AI, explained simply](https://www.youtube.com/@tusharprasad8757)
+**New videos every day.** 30-second explainers ("What is RAG?", "What is a vector database?") and
+2-minute **"How it works"** stories (Uber, Google Maps, WhatsApp, Google Search).
+Made with my own [AI video pipeline](https://github.com/tusshaarpd/ai-automation-workflows/tree/main/youtube-automation).
 
-Enterprise security platform for testing AI agents before production. Covers **12 attack categories** aligned with **OWASP LLM Top 10**: jailbreaks, prompt injection, hallucination, data leakage.
-
-Supports OpenAI, Azure OpenAI, Groq, Together AI, Ollama. Generates stakeholder-ready PDF reports.
-
-`OWASP LLM Top 10` `Red Teaming` `Python` `PostgreSQL`
+[![Subscribe](https://img.shields.io/badge/Subscribe-@tusharprasad8757-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@tusharprasad8757)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🕵️ [Sentinel AI](https://github.com/tusshaarpd/Agent-web-security)**
-
-Enterprise AI security & governance dashboard. Monitors LLMs, RAG pipelines, and AI agents for threats. Features an AI Remediation Copilot for automated patch generation.
-
-Compliance: SOC 2, GDPR, HIPAA, ISO.
-
-`Next.js` `TypeScript` `TailwindCSS` `AI Governance`
-
-</td>
-<td width="50%">
-
-**✍️ [PromptPilot AI](https://github.com/tusshaarpd/prompt-optimization)**
-
-Chrome extension that scores and optimizes prompts in real-time across **7 quality dimensions** before they hit ChatGPT, Claude, or Gemini. Reduces token consumption by **20–40%**.
-
-8 optimization modes. Works on 8 AI platforms.
-
-`TypeScript` `React` `Chrome Extension` `tiktoken`
+### ✍️ [Writing on Medium](https://medium.com/@tusshaarprasad)
+- Nobody Tells You How to Evaluate Your LLM App
+- The Playbook for Deploying AI Agents in Production
+- Your RAG App Is Lying to You: Latency, Hallucinations, Bad Retrieval
+- LangChain vs LlamaIndex vs LangGraph, Explained Clearly
+- MLOps and AIOps Explained Simply
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-### 🏢 Enterprise AI Products
-
-<table>
-<tr>
-<td width="50%">
-
-**📣 [MoEngage AI Agents](https://github.com/tusshaarpd/Mo-engage-agents)**
-
-Multi-agent system for the MoEngage customer engagement platform: campaign analyst, churn risk predictor, A/B variant tester, and personalized recommendation engine.
-
-`CrewAI` `LangChain` `Churn Prediction` `A/B Testing`
-
-</td>
-<td width="50%">
-
-**📊 [PulseIQ](https://github.com/tusshaarpd/Client-Health_Intelligence)**
-
-B2B SaaS platform rolling up pipeline, campaigns, and conversations into a single **0–100 health score**. V2: AI co-pilot chat, 30-day churn forecasting, 60-day save-rate tracker.
-
-`React 19` `TypeScript` `Churn Forecasting` `AI Co-pilot`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 [LLM Projects 2.0](https://github.com/tusshaarpd/llmprojects2.0)**
-
-9 production AI products — Text-to-SQL RAG, KYC automation, meeting summarizer, investment AI, market research — each shipping with a PM case study covering business impact.
-
-`CrewAI` `LangChain` `RAG` `OpenAI` `NLP`
-
-</td>
-<td width="50%">
-
-**🎙️ [Voice Agents](https://github.com/tusshaarpd/Voice-agents-)**
-
-6 hands-free AI apps: Jira ticket creation by voice, HR document Q&A via RAG, stock market briefings, meeting action extractor, job application assistant, LinkedIn post creator.
-
-`Whisper` `GPT-4o-mini` `Streamlit` `RAG` `Jira API`
-
-</td>
-</tr>
-</table>
-
-### 📚 Learning & Reference Implementations
-
-<table>
-<tr>
-<td width="33%">
-
-**[LLM Learning Hub](https://github.com/tusshaarpd/llms)**
-
-27 AI agents · 11 RAG patterns · Fine-tuning · LLM evaluation frameworks. Enterprise LLM adoption guide built from production experience.
-
-</td>
-<td width="33%">
-
-**[AI Interview Coach](https://github.com/tusshaarpd/Interview)**
-
-LLM-powered PM/TPM interview prep — generates role-specific questions and evaluates answers with structured feedback.
-
-</td>
-<td width="33%">
-
-**[Agentic Marketplace](https://github.com/tusshaarpd/Agentic-marketplace)**
-
-Product design + prototype of an AI agent marketplace. Architecture decisions, agent composition, marketplace economics.
+### 🧩 Open-source for the community
+- **[Claude Code skills](https://github.com/tusshaarpd/skills)**: a 16-skill PM/TPM interview coach for MAANG companies, plus Minimalist Entrepreneur skills
+- **[Framework Arena](https://github.com/tusshaarpd/RAG-frameworks)**: one RAG task run side by side in raw Python, LangChain, LlamaIndex, LangGraph and CrewAI
+- **[LLM Learning Hub](https://github.com/tusshaarpd/llms)**: 27 agents, 11 RAG patterns, fine-tuning and evaluation
 
 </td>
 </tr>
@@ -224,29 +101,154 @@ Product design + prototype of an AI agent marketplace. Architecture decisions, a
 
 ---
 
-## ✍️ Writing — AI Product & Engineering Guides
+## 🧠 How I build AI products
 
-| Article | Topic |
-|---------|-------|
-| [Nobody Tells You How to Evaluate Your LLM App — Complete Practical Guide](https://medium.com/@tusshaarprasad) | LLM Evaluation |
-| [The Step-by-Step Playbook for Deploying AI Agents in Production](https://medium.com/@tusshaarprasad) | AI Agents |
-| [Your RAG App Is Lying to You — Fix Latency, Hallucinations & Bad Retrieval](https://medium.com/@tusshaarprasad) | RAG Systems |
-| [LangChain vs LlamaIndex vs LangGraph: The Difference Nobody Explains Clearly](https://medium.com/@tusshaarprasad) | Framework Comparison |
-| [MLOps and AIOps Explained Simply](https://medium.com/@tusshaarprasad) | MLOps |
-| [Design a Global Multi-tenant Analytics & Order Management Platform](https://medium.com/@tusshaarprasad) | System Design |
+1. **Start with the metric, not the model.** Every AI feature has a business number it must move: savings, turnaround time, accuracy or CSAT.
+2. **Evaluate before you scale.** Golden datasets, red-teaming and LLM-as-judge come before launch, not after the first incident.
+3. **Govern by design.** Privacy, compliance (GDPR, OWASP LLM Top 10) and human-in-the-loop are product requirements.
+4. **Agents earn autonomy.** Start with workflows. Give an agent more freedom only when tests and guardrails show it can handle it.
+5. **Ship, then teach.** I build each idea, then share how it works so others can build it too.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Latest builds (2026)
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tusshaarpd&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusshaarpd&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+**⚙️ [AI Automation Workflows](https://github.com/tusshaarpd/ai-automation-workflows)** · *new*
+
+Three end-to-end automations built with Claude:
+- **Job search.** Jobs from 15+ sources, scored against a resume, each with a truthful, ATS-checked tailored resume.
+- **YouTube.** Script, voiceover, Remotion render and auto-publish, every day.
+- **SDLC agent team.** One idea becomes a PRD, an architecture, code, tests that are actually run, a review and a GitHub repo.
+
+`Claude API` `Multi-agent` `Remotion` `FastAPI` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+**🪞 [Mirror (JARVIS)](https://github.com/tusshaarpd/Jarvis)**
+
+A local-first voice assistant to think out loud with. It shows its reasoning as it goes and has four
+layers of memory across sessions. Model routing switches to a backup model if one fails. Wake word,
+voice detection, speech-to-text and text-to-speech all run locally.
+
+`FastAPI` `React` `faster-whisper` `Piper TTS` `LiteLLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎞️ [Video Creator](https://github.com/tusshaarpd/video-creator)**
+
+Turns a folder of photos and music into a cinematic film from a plain-English brief. An LLM plans the
+edit and a separate, predictable renderer produces it, so the two jobs are kept strictly apart.
+
+`LLM planning` `FFmpeg` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+**🏢 Enterprise agent suites**
+
+- **[ProcureFlow AI](https://github.com/tusshaarpd/procurement)**: an agent-driven procurement dashboard covering vendor risk, contract clauses and spend leakage
+- **[HR Onboarding Agents](https://github.com/tusshaarpd/HR-Onboarding-agents)**: 8 agents handling HR, IT, security, payroll and facilities onboarding
+
+`CrewAI` `OpenAI` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛡️ AI governance & safety
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 [Governance Agents](https://github.com/tusshaarpd/governance-agents)**: 4 agents check enterprise tool requests against **FCA, PRA, UK GDPR and SMCR** rules and return a governance report in **under 60 seconds**.
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ [AI Agent Evaluation Platform](https://github.com/tusshaarpd/agent-evaluation)**: red-teams AI agents across **12 attack categories** aligned with the **OWASP LLM Top 10** (jailbreaks, prompt injection, hallucination, data leakage).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕵️ [Sentinel AI](https://github.com/tusshaarpd/Agent-web-security)**: a security dashboard for LLMs, RAG pipelines and agents, with a remediation copilot. Mapped to SOC 2, GDPR, HIPAA and ISO.
+
+</td>
+<td width="50%" valign="top">
+
+**✍️ [PromptPilot AI](https://github.com/tusshaarpd/prompt-optimization)**: a Chrome extension that scores prompts on 7 quality dimensions and cuts **20–40% of tokens** across 8 AI platforms.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 More enterprise AI products</b></summary>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusshaarpd&theme=github-dark-blue&hide_border=true" height="170" />
+- **[MoEngage AI Agents](https://github.com/tusshaarpd/Mo-engage-agents)**: campaign analyst, churn-risk prediction, A/B testing and recommendation agents
+- **[PulseIQ](https://github.com/tusshaarpd/Client-Health_Intelligence)**: a 0–100 client health score, 30-day churn forecast and AI copilot chat
+- **[LLM Projects 2.0](https://github.com/tusshaarpd/llmprojects2.0)**: 9 production AI apps (Text-to-SQL RAG, KYC automation, meeting summarizer), each with a PM case study
+- **[Voice Agents](https://github.com/tusshaarpd/Voice-agents-)**: 6 voice-first apps, including Jira by voice, HR document Q&A and market briefings
+- **[Agentic Marketplace](https://github.com/tusshaarpd/Agentic-marketplace)**: product design and prototype for an AI agent marketplace
+- **[AI Interview Coach](https://github.com/tusshaarpd/Interview)**: LLM-generated PM/TPM questions and answer evaluation
+
+</details>
+
+---
+
+## 🛠️ Toolkit
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,aws,docker,kubernetes,git&theme=dark)](https://skillicons.dev)
+
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7952B3?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4B0082?style=flat-square)
+
+![RAG](https://img.shields.io/badge/RAG_Systems-0066CC?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6F42C1?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FD7E14?style=flat-square)
+![AI Governance](https://img.shields.io/badge/AI_Governance-343A40?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-E6194B?style=flat-square)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-0052CC?style=flat-square)
+![OKRs](https://img.shields.io/badge/OKRs_%26_Roadmaps-FF5630?style=flat-square)
+![0→1](https://img.shields.io/badge/0%E2%86%921_Products-6554C0?style=flat-square)
+![GTM](https://img.shields.io/badge/Enterprise_GTM-FF8B00?style=flat-square)
+
+</div>
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tusshaarpd&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" height="165" alt="Tushar Prasad GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusshaarpd&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusshaarpd&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak" />
 
 </div>
 
@@ -254,22 +256,27 @@ Product design + prototype of an AI agent marketplace. Architecture decisions, a
 
 ## 🏆 Recognition
 
-- **Sense of Ownership Award** × 3 — HireRight (2023, 2024, 2024)
-- **Star Performer of the Month** — Sterlite Technologies (2021)
-- Business case competition finalist — YES BANK · Flipkart · HUL · Reckitt
+- 🥇 **Sense of Ownership Award** ×3, HireRight (2023, 2024, 2024)
+- ⭐ **Star Performer of the Month**, Sterlite Technologies (2021)
+- 🏁 Business case competition finalist at YES BANK, Flipkart, HUL and Reckitt
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+### 🤝 Let's connect
+**Open to:** AI product leadership roles · Speaking & podcasts · AI strategy advisory · Collaborations
 
-📍 **Bengaluru, India** &nbsp;|&nbsp; 🏢 **HireRight** &nbsp;|&nbsp; 🎓 **MIT Pune · IIM Mumbai**
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@tusharprasad8757)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharprasad6a15315a)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@tusshaarprasad)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tusshaarprasad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://tusshaarprasad.lovable.app)
 
-**Actively exploring: Senior PM AI · Head of AI Product · Director of Product (AI) · AI Product Lead**
+📍 Bengaluru, India
 
-*Keywords: AI Product Manager, LLM Product Manager, Generative AI PM, Machine Learning PM, AI Governance, Responsible AI, RAG, AI Agents, Enterprise AI, B2B SaaS, LangChain, OpenAI, OWASP LLM*
+<sub>AI Product Leader · AI Product Manager · Head of AI Product · Generative AI · LLM Products · AI Agents · Agentic AI · RAG · LLM Evaluation · AI Governance · Responsible AI · Enterprise AI · B2B SaaS · Claude · OpenAI · LangChain · CrewAI · AI Educator · AI Author · AI YouTube</sub>
 
-[📧 Email](mailto:tusshaarprasad@gmail.com) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/tusharprasad6a15315a) &nbsp;·&nbsp; [🌐 Portfolio](https://tusshaarprasad.lovable.app) &nbsp;·&nbsp; [✍️ Medium](https://medium.com/@tusshaarprasad)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
 
 </div>
