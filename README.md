@@ -65,6 +65,9 @@ can run.
 (33 chapters, 12 appendices, 100K+ words) on building, deploying, scaling and running real-world AI
 systems, from tokens and embeddings to production AI platforms. Free to read.
 
+[![Download free PDF](https://img.shields.io/badge/📥_Download_free_PDF-537_pages-F4A323?style=flat-square)](https://github.com/tusshaarpd/AI_book/blob/main/From-Tokens-to-Platforms.pdf)
+[![Read on GitHub](https://img.shields.io/badge/Read_on-GitHub-181717?style=flat-square&logo=github)](https://github.com/tusshaarpd/AI_book)
+
 </td>
 <td width="50%" valign="top">
 
@@ -272,6 +275,7 @@ edit and a separate, predictable renderer produces it, so the two jobs are kept 
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@tusshaarprasad)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tusshaarprasad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://tusshaarprasad.lovable.app)
+[![Book](https://img.shields.io/badge/-Free_AI_Book-F4A323?style=flat-square&logo=bookstack&logoColor=white)](https://github.com/tusshaarpd/AI_book/blob/main/From-Tokens-to-Platforms.pdf)
 
 🏢 **UPL** &nbsp;·&nbsp; 📍 Bengaluru, India
 
