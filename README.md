@@ -17,7 +17,7 @@
 [![Book](https://img.shields.io/badge/Book-From_Tokens_to_Platforms-F4A323?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/tusshaarpd/AI_book)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://tusshaarprasad.lovable.app)
 
-<img src="https://komarev.com/ghpvc/?username=tusshaarpd&label=Profile+Views&color=58A6FF&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=tusshaarpd&label=Profile%20Views&color=58A6FF&style=flat-square&abbreviated=false" alt="profile views" />
 
 </div>
 
